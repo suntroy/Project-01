@@ -34,6 +34,7 @@ VAR has_pickaxe = false
     Here it is. The chasm that holds so much history. You sit at the edge, tied and harnessed securely. You are all but ready to dive, but you feel like you don't have much of a choice.
     Failure to bring back anything will only lead to more trouble for you. God knows you've already had enough. 
     You have your phone with you, if anything. Just get something of value, and get out.
+    
 * [Grab your rope and climb down] -> the_descent
 * [Step back] -> cowardice
 
